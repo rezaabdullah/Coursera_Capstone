@@ -1,0 +1,248 @@
+,City,Nation,Population,URL,Latitude,Longitude
+0,Chongqing,People's Republic of China,30751600,https://en.wikipedia.org/wiki/Chongqing,29.558333333333,106.56666666667
+1,Shanghai,People's Republic of China,24256800,https://en.wikipedia.org/wiki/Shanghai,31.228611111111,121.47472222222
+2,Delhi,India,11034555,https://en.wikipedia.org/wiki/Delhi,28.61,77.23
+3,Beijing,People's Republic of China,21516000,https://en.wikipedia.org/wiki/Beijing,39.916666666667,116.38333333333
+4,Dhaka,Bangladesh,14399000,https://en.wikipedia.org/wiki/Dhaka,23.716111111111,90.396111111111
+5,Mumbai,India,12478447,https://en.wikipedia.org/wiki/Mumbai,18.975,72.825833333333
+6,Lagos,Nigeria,16060303,https://en.wikipedia.org/wiki/Lagos,6.455027,3.384082
+7,Chengdu,People's Republic of China,16044700,https://en.wikipedia.org/wiki/Chengdu,30.657,104.066
+8,Karachi,Pakistan,14910352,https://en.wikipedia.org/wiki/Karachi,24.86,67.01
+9,Guangzhou,People's Republic of China,14043500,https://en.wikipedia.org/wiki/Guangzhou,23.132,113.266
+10,Istanbul,Turkey,14025000,https://en.wikipedia.org/wiki/Istanbul,41.013611111111,28.955
+11,Tokyo,Japan,13839910,https://en.wikipedia.org/wiki/Tokyo,35.683333333333,139.68333333333
+12,Tianjin,People's Republic of China,12784000,https://en.wikipedia.org/wiki/Tianjin,39.133333333333,117.18333333333
+13,Moscow,Russia,12197596,https://en.wikipedia.org/wiki/Moscow,55.75,37.616666666667
+14,São Paulo,Brazil,12038175,https://en.wikipedia.org/wiki/S%C3%A3o_Paulo,-23.55,-46.633333333333
+15,Kinshasa,DR Congo,11855000,https://en.wikipedia.org/wiki/Kinshasa,-4.325,15.322222222222
+16,Baoding,People's Republic of China,11194372,https://en.wikipedia.org/wiki/Baoding,38.866666666667,115.46666666667
+17,Lahore,Pakistan,11126285,https://en.wikipedia.org/wiki/Lahore,31.549722222222,74.343611111111
+18,Cairo,Egypt,10230350,https://en.wikipedia.org/wiki/Cairo,30.044444444444,31.235833333333
+19,Seoul,"Korea, South",10197604,https://en.wikipedia.org/wiki/Seoul,37.566666666667,126.96666666667
+20,Jakarta,Indonesia,10075310,https://en.wikipedia.org/wiki/Jakarta,-6.2,106.81666666667
+21,Wenzhou,People's Republic of China,9175000,https://en.wikipedia.org/wiki/Wenzhou,28.0,120.7
+22,Mexico City,Mexico,8974724,https://en.wikipedia.org/wiki/Mexico_City,19.433333333333,-99.133333333333
+23,Lima,Peru,8852000,https://en.wikipedia.org/wiki/Lima,-12.043333333333,-77.028333333333
+24,London,United Kingdom,8825001,https://en.wikipedia.org/wiki/London,51.507222222222,-0.1275
+25,Bangkok,Thailand,8750600,https://en.wikipedia.org/wiki/Bangkok,13.7525,100.49416666667
+26,Xi'an,People's Republic of China,8705600,https://en.wikipedia.org/wiki/Xi%27an,34.265,108.954
+27,Chennai,India,4681087,https://en.wikipedia.org/wiki/Chennai,13.083333333333,80.266666666667
+28,Bangalore,India,8425970,https://en.wikipedia.org/wiki/Bangalore,12.983333333333,77.583333333333
+29,New York City,United States,8622698,https://en.wikipedia.org/wiki/New_York_City,40.7127,-74.0059
+30,Ho Chi Minh City,Vietnam,8444600,https://en.wikipedia.org/wiki/Ho_Chi_Minh_City,10.8,106.65
+31,Hyderabad,India,6809970,https://en.wikipedia.org/wiki/Hyderabad,17.37,78.48
+32,Shenzhen,People's Republic of China,8378900,https://en.wikipedia.org/wiki/Shenzhen,22.55,114.1
+33,Suzhou,People's Republic of China,8265050,https://en.wikipedia.org/wiki/Suzhou,31.3,120.6
+34,Nanjing,People's Republic of China,8230000,https://en.wikipedia.org/wiki/Nanjing,32.05,118.76666666667
+35,Dongguan,People's Republic of China,8220207,https://en.wikipedia.org/wiki/Dongguan,23.021,113.752
+36,Tehran,Iran,8154051,https://en.wikipedia.org/wiki/Tehran,35.689166666667,51.388888888889
+37,Quanzhou,People's Republic of China,8128533,https://en.wikipedia.org/wiki/Quanzhou,24.907,118.587
+38,Shenyang,People's Republic of China,8106171,https://en.wikipedia.org/wiki/Shenyang,41.8,123.4
+39,Bogotá,Colombia,7878783,https://en.wikipedia.org/wiki/Bogot%C3%A1,4.7111111111111,-74.072222222222
+40,Hong Kong,People's Republic of China,7274900,https://en.wikipedia.org/wiki/Hong_Kong,22.3,114.2
+41,Baghdad,Iraq,7180889,https://en.wikipedia.org/wiki/Baghdad,33.333333333333,44.383333333333
+42,Fuzhou,People's Republic of China,7115369,https://en.wikipedia.org/wiki/Fuzhou,26.0753,119.3082
+43,Changsha,People's Republic of China,7044118,https://en.wikipedia.org/wiki/Changsha,28.228,112.939
+44,Wuhan,People's Republic of China,6886253,https://en.wikipedia.org/wiki/Wuhan,30.583333333333,114.28333333333
+45,Hanoi,Vietnam,6844100,https://en.wikipedia.org/wiki/Hanoi,21.028333333333,105.85416666667
+46,Rio de Janeiro,Brazil,6429923,https://en.wikipedia.org/wiki/Rio_de_Janeiro,-22.908333333333,-43.196388888889
+47,Qingdao,People's Republic of China,6188100,https://en.wikipedia.org/wiki/Qingdao,36.0669,120.3827
+48,Foshan,People's Republic of China,6151622,https://en.wikipedia.org/wiki/Foshan,23.016666666667,113.11666666667
+49,Zunyi,People's Republic of China,6127009,https://en.wikipedia.org/wiki/Zunyi,27.683333333333,106.9
+50,Santiago,Chile,5743719,https://en.wikipedia.org/wiki/Santiago,-33.45,-70.666666666667
+51,Riyadh,Saudi Arabia,5676621,https://en.wikipedia.org/wiki/Riyadh,24.633333333333,46.716666666667
+52,Ahmedabad,India,5570585,https://en.wikipedia.org/wiki/Ahmedabad,23.03,72.58
+53,Singapore,Singapore,5535000,https://en.wikipedia.org/wiki/Singapore,1.3,103.8
+54,Shantou,People's Republic of China,5391028,https://en.wikipedia.org/wiki/Shantou,23.354,116.682
+55,Ankara,Turkey,5271000,https://en.wikipedia.org/wiki/Ankara,39.933333333333,32.866666666667
+56,Yangon,Myanmar,5214000,https://en.wikipedia.org/wiki/Yangon,16.85,96.183333333333
+57,Saint Petersburg,Russia,5191690,https://en.wikipedia.org/wiki/Saint_Petersburg,59.9375,30.308611111111
+58,Sydney,Australia,208374,https://en.wikipedia.org/wiki/Sydney,-33.865,151.20944444444
+59,Casablanca,Morocco,5117832,https://en.wikipedia.org/wiki/Casablanca,33.533333333333,-7.5833333333333
+60,Melbourne,Australia,135959,https://en.wikipedia.org/wiki/Melbourne,-37.813611111111,144.96305555556
+61,Abidjan,Ivory Coast,4765000,https://en.wikipedia.org/wiki/Abidjan,5.3166666666667,-4.0333333333333
+62,Alexandria,Egypt,4616625,https://en.wikipedia.org/wiki/Alexandria,31.2,29.916666666667
+63,Kolkata,India,4486679,https://en.wikipedia.org/wiki/Kolkata,22.566666666667,88.366666666667
+64,Surat,India,4462002,https://en.wikipedia.org/wiki/Surat,21.17024,72.831060833333
+65,Johannesburg,South Africa,4434827,https://en.wikipedia.org/wiki/Johannesburg,-26.204444444444,28.045555555556
+66,Dar es Salaam,Tanzania,4364541,https://en.wikipedia.org/wiki/Dar_es_Salaam,-6.8,39.283333333333
+67,Shijiazhuang,People's Republic of China,4303700,https://en.wikipedia.org/wiki/Shijiazhuang,38.043611111111,114.49833333333
+68,Harbin,People's Republic of China,4280701,https://en.wikipedia.org/wiki/Harbin,45.75,126.63333333333
+69,Giza,Egypt,4239988,https://en.wikipedia.org/wiki/Giza,30.016666666667,31.216666666667
+70,İzmir,Turkey,4168000,https://en.wikipedia.org/wiki/%C4%B0zmir,38.42,27.14
+71,Zhengzhou,People's Republic of China,4122087,https://en.wikipedia.org/wiki/Zhengzhou,34.764,113.684
+72,New Taipei City,Republic of China,3954929,https://en.wikipedia.org/wiki/New_Taipei_City,25.011111111111,121.44583333333
+73,Los Angeles,United States,3884307,https://en.wikipedia.org/wiki/Los_Angeles,34.05,-118.25
+74,Changchun,People's Republic of China,3815270,https://en.wikipedia.org/wiki/Changchun,43.886944444444,125.32472222222
+75,Cape Town,South Africa,3740026,https://en.wikipedia.org/wiki/Cape_Town,-33.925277777778,18.423888888889
+76,Yokohama,Japan,3726167,https://en.wikipedia.org/wiki/Yokohama,35.444166666667,139.63805555556
+77,Khartoum,Sudan,3639598,https://en.wikipedia.org/wiki/Khartoum,15.500555555556,32.56
+78,Guayaquil,Ecuador,3600000,https://en.wikipedia.org/wiki/Guayaquil,-2.1833333333333,-79.883333333333
+79,Hangzhou,People's Republic of China,3560391,https://en.wikipedia.org/wiki/Hangzhou,30.25,120.16666666667
+80,Xiamen,People's Republic of China,3531347,https://en.wikipedia.org/wiki/Xiamen,24.479836111111,118.08941944444
+81,Berlin,Germany,3517424,https://en.wikipedia.org/wiki/Berlin,52.516666666667,13.388888888889
+82,Busan,"Korea, South",3510833,https://en.wikipedia.org/wiki/Busan,35.166666666667,129.06666666667
+83,Ningbo,People's Republic of China,3491597,https://en.wikipedia.org/wiki/Ningbo,29.869,121.554
+84,Jeddah,Saudi Arabia,3456259,https://en.wikipedia.org/wiki/Jeddah,21.543333333333,39.172777777778
+85,Durban,South Africa,3442361,https://en.wikipedia.org/wiki/Durban,-29.883333333333,31.05
+86,Algiers,Algeria,3415811,https://en.wikipedia.org/wiki/Algiers,36.753888888889,3.0588888888889
+87,Kabul,Afghanistan,3414100,https://en.wikipedia.org/wiki/Kabul,34.533333333333,69.166666666667
+88,Hefei,People's Republic of China,3352076,https://en.wikipedia.org/wiki/Hefei,31.866666666667,117.28333333333
+89,Mashhad,Iran,3001184,https://en.wikipedia.org/wiki/Mashhad,36.3,59.6
+90,Pyongyang,"Korea, North",3255388,https://en.wikipedia.org/wiki/Pyongyang,39.019444444444,125.73805555556
+91,Madrid,Spain,3207247,https://en.wikipedia.org/wiki/Madrid,40.383333333333,-3.7166666666667
+92,Faisalabad,Pakistan,3203846,https://en.wikipedia.org/wiki/Faisalabad,31.416666666667,73.091111111111
+93,Baku,Azerbaijan,3202300,https://en.wikipedia.org/wiki/Baku,40.395277777778,49.882222222222
+94,Tangshan,People's Republic of China,7577289,https://en.wikipedia.org/wiki/Tangshan,39.631,118.18
+95,Ekurhuleni,South Africa,3178470,https://en.wikipedia.org/wiki/Ekurhuleni_Metropolitan_Municipality,-26.218611111111,28.162777777778
+96,Nairobi,Kenya,3138369,https://en.wikipedia.org/wiki/Nairobi,-1.2833333333333,36.816666666667
+97,Zhongshan,People's Republic of China,3121275,https://en.wikipedia.org/wiki/Zhongshan,22.517,113.393
+98,Pune,India,3115431,https://en.wikipedia.org/wiki/Pune,18.520277777778,73.856666666667
+99,Addis Ababa,Ethiopia,3103673,https://en.wikipedia.org/wiki/Addis_Ababa,9.03,38.74
+100,Jaipur,India,3073350,https://en.wikipedia.org/wiki/Jaipur,26.9,75.8
+101,Buenos Aires,Argentina,3054300,https://en.wikipedia.org/wiki/Buenos_Aires,-34.603333333333,-58.381666666667
+102,Incheon,"Korea, South",2978367,https://en.wikipedia.org/wiki/Incheon,37.483333333333,126.63333333333
+103,Quezon City,Philippines,2936116,https://en.wikipedia.org/wiki/Quezon_City,14.63,121.03
+104,Toronto,Canada,2929886,https://en.wikipedia.org/wiki/Toronto,43.7,-79.4
+105,Kiev,Ukraine,2908703,https://en.wikipedia.org/wiki/Kiev,50.45,30.523333333333
+106,Salvador,Brazil,2902927,"https://en.wikipedia.org/wiki/Salvador,_Bahia",-12.974722222222,-38.476666666667
+107,Rome,Italy,2877215,https://en.wikipedia.org/wiki/Rome,41.9,12.5
+108,Dubai,United Arab Emirates,2865560,https://en.wikipedia.org/wiki/Dubai,25.263055555556,55.297222222222
+109,Luanda,Angola,2825311,https://en.wikipedia.org/wiki/Luanda,-8.8383333333333,13.234444444444
+110,Lucknow,India,2815601,https://en.wikipedia.org/wiki/Lucknow,26.85,80.95
+111,Kaohsiung,Republic of China,2778918,https://en.wikipedia.org/wiki/Kaohsiung,22.633333333333,120.26666666667
+112,Kanpur,India,2768057,https://en.wikipedia.org/wiki/Kanpur,26.449923,80.331874
+113,Surabaya,Indonesia,2765487,https://en.wikipedia.org/wiki/Surabaya,-7.2652777777778,112.7425
+114,Taichung,Republic of China,2752413,https://en.wikipedia.org/wiki/Taichung,24.15,120.66666666667
+115,Basra,Iraq,2750000,https://en.wikipedia.org/wiki/Basra,30.5,47.816666666667
+116,Taipei,Republic of China,2704974,https://en.wikipedia.org/wiki/Taipei,25.066666666667,121.51666666667
+117,Chicago,United States,2695598,https://en.wikipedia.org/wiki/Chicago,41.836944444444,-87.684722222222
+118,Osaka,Japan,2691742,https://en.wikipedia.org/wiki/Osaka,34.693888888889,135.50222222222
+119,Quito,Ecuador,2671191,https://en.wikipedia.org/wiki/Quito,-0.23333333333333,-78.516666666667
+120,Chaozhou,People's Republic of China,2669844,https://en.wikipedia.org/wiki/Chaozhou,23.67,116.63
+121,Fortaleza,Brazil,2609716,https://en.wikipedia.org/wiki/Fortaleza,-3.7183333333333,-38.542777777778
+122,Chittagong,Bangladesh,2581643,https://en.wikipedia.org/wiki/Chittagong,22.366666666667,91.8
+123,Bandung,Indonesia,2575478,https://en.wikipedia.org/wiki/Bandung,-6.912,107.6097
+124,Managua,Nicaragua,2560789,https://en.wikipedia.org/wiki/Managua,12.136388888889,-86.251388888889
+125,Brasília,Brazil,2556149,https://en.wikipedia.org/wiki/Bras%C3%ADlia,-15.793888888889,-47.882777777778
+126,Belo Horizonte,Brazil,2502557,https://en.wikipedia.org/wiki/Belo_Horizonte,-19.916666666667,-43.933333333333
+127,Daegu,"Korea, South",2492994,https://en.wikipedia.org/wiki/Daegu,35.866666666667,128.6
+128,Houston,United States,2489558,https://en.wikipedia.org/wiki/Houston,29.762777777778,-95.383055555556
+129,Douala,Cameroon,2446945,https://en.wikipedia.org/wiki/Douala,4.05,9.7
+130,Medellin,Colombia,2441123,https://en.wikipedia.org/wiki/Medellin,6.2308333333333,-75.590555555556
+131,Yaoundé,Cameroon,2440462,https://en.wikipedia.org/wiki/Yaound%C3%A9,3.8666666666667,11.516666666667
+132,Nagpur,India,2405665,https://en.wikipedia.org/wiki/Nagpur,21.15,79.083333333333
+133,Cali,Colombia,2400653,https://en.wikipedia.org/wiki/Cali,3.4205555555556,-76.522222222222
+134,Tashkent,Uzbekistan,2309600,https://en.wikipedia.org/wiki/Tashkent,41.3,69.266666666667
+135,Nagoya,Japan,2296014,https://en.wikipedia.org/wiki/Nagoya,35.183333333333,136.9
+136,Isfahan,Iran,2101220,https://en.wikipedia.org/wiki/Isfahan,32.644722222222,51.6675
+137,Phnom Penh,Cambodia,2234566,https://en.wikipedia.org/wiki/Phnom_Penh,11.55,104.91666666667
+138,Paris,France,2229621,https://en.wikipedia.org/wiki/Paris,48.8567,2.3508
+139,Ouagadougou,Burkina Faso,2200000,https://en.wikipedia.org/wiki/Ouagadougou,12.357222222222,-1.5352777777778
+140,Lanzhou,People's Republic of China,2177130,https://en.wikipedia.org/wiki/Lanzhou,36.062,103.835
+141,Kano,Nigeria,2153225,https://en.wikipedia.org/wiki/Kano,12.0,8.5166666666667
+142,Dalian,People's Republic of China,2146099,https://en.wikipedia.org/wiki/Dalian,38.920833333333,121.63916666667
+143,Guatemala City,Guatemala,2110100,https://en.wikipedia.org/wiki/Guatemala_City,14.613333333333,-90.535277777778
+144,Havana,Cuba,2106146,https://en.wikipedia.org/wiki/Havana,23.133333333333,-82.383333333333
+145,Rawalpindi,Pakistan,2098231,https://en.wikipedia.org/wiki/Rawalpindi,33.6,73.033333333333
+146,Medan,Indonesia,2097610,https://en.wikipedia.org/wiki/Medan,3.5833333333333,98.666666666667
+147,Accra,Ghana,2070463,https://en.wikipedia.org/wiki/Accra,5.55,-0.2
+148,Visakhapatnam,India,2035922,https://en.wikipedia.org/wiki/Visakhapatnam,17.704166666667,83.297777777778
+149,Gujranwala,Pakistan,2027001,https://en.wikipedia.org/wiki/Gujranwala,32.156666666667,74.19
+150,Jinan,People's Republic of China,2009273,https://en.wikipedia.org/wiki/Jinan,36.666666666667,116.98333333333
+151,Karaj,Iran,1973470,https://en.wikipedia.org/wiki/Karaj,35.835555555556,51.010277777778
+152,Peshawar,Pakistan,1970042,https://en.wikipedia.org/wiki/Peshawar,34.016666666667,71.583333333333
+153,Minsk,Belarus,1959781,https://en.wikipedia.org/wiki/Minsk,53.9,27.566666666667
+154,Caracas,Venezuela,1943901,https://en.wikipedia.org/wiki/Caracas,10.480555555556,-66.903611111111
+155,Sana'a,Yemen,1937451,https://en.wikipedia.org/wiki/Sana%27a,15.348333333333,44.206388888889
+156,Sapporo,Japan,1918096,https://en.wikipedia.org/wiki/Sapporo,43.066666666667,141.35
+157,Tainan,Republic of China,1885252,https://en.wikipedia.org/wiki/Tainan,22.983333333333,120.18333333333
+158,Bucharest,Romania,1883425,https://en.wikipedia.org/wiki/Bucharest,44.4325,26.103888888889
+159,Curitiba,Brazil,1879355,https://en.wikipedia.org/wiki/Curitiba,-25.416666666667,-49.25
+160,Shiraz,Iran,1869001,https://en.wikipedia.org/wiki/Shiraz,29.616666666667,52.533333333333
+161,Vienna,Austria,1863881,https://en.wikipedia.org/wiki/Vienna,48.2,16.366666666667
+162,Brazzaville,Congo Republic,1827000,https://en.wikipedia.org/wiki/Brazzaville,-4.2677777777778,15.291944444444
+163,Bhopal,India,1798218,https://en.wikipedia.org/wiki/Bhopal,23.25,77.416666666667
+164,Almaty,Kazakhstan,1792549,https://en.wikipedia.org/wiki/Almaty,43.2775,76.895833333333
+165,Hamburg,Germany,1787408,https://en.wikipedia.org/wiki/Hamburg,53.565277777778,10.001388888889
+166,Manila,Philippines,1780148,https://en.wikipedia.org/wiki/Manila,14.58,121.0
+167,Kuala Lumpur,Malaysia,1768000,https://en.wikipedia.org/wiki/Kuala_Lumpur,3.1333333333333,101.68333333333
+168,Maputo,Mozambique,1766184,https://en.wikipedia.org/wiki/Maputo,-25.966666666667,32.583333333333
+169,Budapest,Hungary,1759407,https://en.wikipedia.org/wiki/Budapest,47.4925,19.051388888889
+170,Warsaw,Poland,1753977,https://en.wikipedia.org/wiki/Warsaw,52.233333333333,21.016666666667
+171,Lusaka,Zambia,1742979,https://en.wikipedia.org/wiki/Lusaka,-15.416666666667,28.283333333333
+172,Kathmandu,Nepal,1744240,https://en.wikipedia.org/wiki/Kathmandu,27.711388888889,85.308611111111
+173,Tabriz,Iran,1733033,https://en.wikipedia.org/wiki/Tabriz,38.066666666667,46.3
+174,Hyderabad,Pakistan,1732693,"https://en.wikipedia.org/wiki/Hyderabad,_Pakistan",25.379166666667,68.368333333333
+175,Palembang,Indonesia,1708413,https://en.wikipedia.org/wiki/Palembang,-2.9861111111111,104.75555555556
+176,Tijuana,Mexico,1696923,https://en.wikipedia.org/wiki/Tijuana,32.525,-117.03333333333
+177,Patna,India,1683200,https://en.wikipedia.org/wiki/Patna,25.6,85.1
+178,Montreal,Canada,1649519,https://en.wikipedia.org/wiki/Montreal,45.508888888889,-73.561666666667
+179,Davao City,Philippines,1632991,https://en.wikipedia.org/wiki/Davao_City,7.07,125.6
+180,Harare,Zimbabwe,1606000,https://en.wikipedia.org/wiki/Harare,-17.829166666667,31.052222222222
+181,Barcelona,Spain,1604555,https://en.wikipedia.org/wiki/Barcelona,41.383333333333,2.1833333333333
+182,Maracaibo,Venezuela,1599940,https://en.wikipedia.org/wiki/Maracaibo,10.65,-71.633333333333
+183,Caloocan,Philippines,1583978,https://en.wikipedia.org/wiki/Caloocan,14.65,120.97
+184,Philadelphia,United States,1567872,https://en.wikipedia.org/wiki/Philadelphia,39.952777777778,-75.163611111111
+185,Novosibirsk,Russia,1567087,https://en.wikipedia.org/wiki/Novosibirsk,55.05,82.95
+186,Phoenix,United States,1563025,"https://en.wikipedia.org/wiki/Phoenix,_Arizona",33.45,-112.06666666667
+187,Oran,Algeria,1560329,https://en.wikipedia.org/wiki/Oran,35.696944444444,-0.63305555555556
+188,Semarang,Indonesia,1555984,https://en.wikipedia.org/wiki/Semarang,-6.9666666666667,110.41666666667
+189,Recife,Brazil,1555039,https://en.wikipedia.org/wiki/Recife,-8.05,-34.9
+190,Kobe,Japan,1536499,https://en.wikipedia.org/wiki/Kobe,34.69,135.19555555556
+191,Daejeon,"Korea, South",1535028,https://en.wikipedia.org/wiki/Daejeon,36.351,127.385
+192,Kampala,Uganda,1507080,https://en.wikipedia.org/wiki/Kampala,0.31361111111111,32.581111111111
+193,Kawasaki,Japan,1496035,"https://en.wikipedia.org/wiki/Kawasaki,_Kanagawa",35.516666666667,139.7
+194,Guadalajara,Mexico,1495189,https://en.wikipedia.org/wiki/Guadalajara,20.676666666667,-103.3475
+195,Auckland,New Zealand,1495000,https://en.wikipedia.org/wiki/Auckland,-36.840555555556,174.74
+196,Vijayawada,India,1491202,https://en.wikipedia.org/wiki/Vijayawada,16.5193,80.6305
+197,Fukuoka,Japan,1483052,https://en.wikipedia.org/wiki/Fukuoka,33.583333333333,130.4
+198,Gwangju,"Korea, South",1477780,https://en.wikipedia.org/wiki/Gwangju,35.166666666667,126.91666666667
+199,Porto Alegre,Brazil,1476867,https://en.wikipedia.org/wiki/Porto_Alegre,-30.033055555556,-51.23
+200,Kyoto,Japan,1474570,https://en.wikipedia.org/wiki/Kyoto,35.011666666667,135.76833333333
+201,San Antonio,United States,1469845,https://en.wikipedia.org/wiki/San_Antonio,29.416666666667,-98.5
+202,Santa Cruz de la Sierra,Bolivia,1453549,https://en.wikipedia.org/wiki/Santa_Cruz_de_la_Sierra,-17.8,-63.183333333333
+203,Munich,Germany,1450381,https://en.wikipedia.org/wiki/Munich,48.133333333333,11.566666666667
+204,Kharkiv,Ukraine,1449414,https://en.wikipedia.org/wiki/Kharkiv,50.004444444444,36.231388888889
+205,Yekaterinburg,Russia,1428042,https://en.wikipedia.org/wiki/Yekaterinburg,56.833333333333,60.583333333333
+206,San Diego,United States,1394928,https://en.wikipedia.org/wiki/San_Diego,32.715,-117.1625
+207,Barranquilla,Colombia,1386865,https://en.wikipedia.org/wiki/Barranquilla,10.963888888889,-74.796388888889
+208,Milan,Italy,1359905,https://en.wikipedia.org/wiki/Milan,45.466666666667,9.1833333333333
+209,Ibadan,Nigeria,1338659,https://en.wikipedia.org/wiki/Ibadan,7.3963888888889,3.9166666666667
+210,Makassar,Indonesia,1338633,https://en.wikipedia.org/wiki/Makassar,-5.1330555555556,119.41361111111
+211,Córdoba,Argentina,1330023,"https://en.wikipedia.org/wiki/C%C3%B3rdoba,_Argentina",-31.416666666667,-64.183333333333
+212,Prague,Czech Republic,1324000,https://en.wikipedia.org/wiki/Prague,50.083333333333,14.416666666667
+213,Mandalay,Myanmar,1319452,https://en.wikipedia.org/wiki/Mandalay,21.975,96.083333333333
+214,Dallas,United States,1317929,https://en.wikipedia.org/wiki/Dallas,32.783333333333,-96.8
+215,Montevideo,Uruguay,1305082,https://en.wikipedia.org/wiki/Montevideo,-34.883611111111,-56.181944444444
+216,Qom,Iran,1201158,https://en.wikipedia.org/wiki/Qom,34.64,50.876388888889
+217,Ahvaz,Iran,1184788,https://en.wikipedia.org/wiki/Ahvaz,31.320277777778,48.669166666667
+218,Sofia,Bulgaria,1260120,https://en.wikipedia.org/wiki/Sofia,42.7,23.33
+219,Nizhny Novgorod,Russia,1250619,https://en.wikipedia.org/wiki/Nizhny_Novgorod,56.326944444444,44.0075
+220,Abuja,Nigeria,1235880,https://en.wikipedia.org/wiki/Abuja,9.0666666666667,7.4833333333333
+221,Calgary,Canada,1235171,https://en.wikipedia.org/wiki/Calgary,51.05,-114.06666666667
+222,Saitama,Japan,1226656,"https://en.wikipedia.org/wiki/Saitama,_Saitama",35.861388888889,139.64555555556
+223,Suwon,South Korea,1202310,https://en.wikipedia.org/wiki/Suwon,37.266666666667,127.01666666667
+224,Hiroshima,Japan,1196274,https://en.wikipedia.org/wiki/Hiroshima,34.383333333333,132.45
+225,Rosario,Argentina,1193605,"https://en.wikipedia.org/wiki/Rosario,_Santa_Fe",-32.95,-60.666666666667
+226,Brisbane,Australia,1180285,https://en.wikipedia.org/wiki/Brisbane,-27.466666666667,153.03333333333
+227,Allahabad,India,0,https://en.wikipedia.org/wiki/Allahabad,25.45,81.85
+228,Belgrade,Serbia,1166763,https://en.wikipedia.org/wiki/Belgrade,44.816666666667,20.466666666667
+229,Campinas,Brazil,1164098,https://en.wikipedia.org/wiki/Campinas,-22.900833333333,-47.057222222222
+230,Ulsan,"Korea, South",1163690,https://en.wikipedia.org/wiki/Ulsan,35.55,129.31666666667
+231,Omsk,Russia,1154116,https://en.wikipedia.org/wiki/Omsk,54.983333333333,73.366666666667
+232,Dakar,Senegal,1146053,https://en.wikipedia.org/wiki/Dakar,14.692777777778,-17.446666666667
+233,Abu Dhabi,United Arab Emirates,1145000,https://en.wikipedia.org/wiki/Abu_Dhabi,24.466666666667,54.366666666667
+234,Monterrey,Mexico,1130960,https://en.wikipedia.org/wiki/Monterrey,25.666666666667,-100.3
+235,Tripoli,Libya,1126000,https://en.wikipedia.org/wiki/Tripoli,32.887222222222,13.191388888889
+236,Rostov-on-Don,Russia,1119900,https://en.wikipedia.org/wiki/Rostov-on-Don,47.233333333333,39.7
+237,T'bilisi,Georgia,1118035,https://en.wikipedia.org/wiki/T%27bilisi,41.716666666667,44.783333333333
+238,Fez,Morocco,1112072,"https://en.wikipedia.org/wiki/Fez,_Morocco",34.033333333333,-5.0
+239,Birmingham,United Kingdom,1111300,https://en.wikipedia.org/wiki/Birmingham,52.483333333333,-1.9
+240,Yerevan,Armenia,1060138,https://en.wikipedia.org/wiki/Yerevan,40.181388888889,44.514444444444
+241,Cologne,Germany,1057327,https://en.wikipedia.org/wiki/Cologne,50.936388888889,6.9527777777778
+242,Tunis,Tunisia,1056247,https://en.wikipedia.org/wiki/Tunis,36.806388888889,10.181666666667
+243,Bulawayo,Zimbabwe,1050000,https://en.wikipedia.org/wiki/Bulawayo,-20.17,28.58
+244,Astana,Kazakhstan,1029556,https://en.wikipedia.org/wiki/Astana,51.166666666667,71.433333333333
+245,Islamabad,Pakistan,1014825,https://en.wikipedia.org/wiki/Islamabad,33.716666666667,73.066666666667
+246,Cartagena,Colombia,1013389,"https://en.wikipedia.org/wiki/Cartagena,_Colombia",10.4,-75.5
